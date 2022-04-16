@@ -1,0 +1,22 @@
+{
+  "name": "express-response",
+  "version": "1.0.0",
+  "description": "✂️JSON Responses",
+  "main": "index.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raag2005/express-response.git"
+  },
+  "keywords": [
+    "express",
+    "middleware",
+    "less-work"
+  ],
+  "author": "Raag2005 <Oskar Raagart>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/raag2005/express-response/issues"
+  },
+  "homepage": "https://github.com/raag2005/express-response#readme"
+}
