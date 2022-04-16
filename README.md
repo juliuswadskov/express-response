@@ -1,5 +1,4 @@
 # Express response
-## ✂️Dynamic JSON Responses
 
 </br>
 
