@@ -17,7 +17,7 @@ export default function(options) {
             
             let statusResponse = {
                 statusCode: code,
-                path: req.path
+                path: req.originalUrl
             }
     
             if (code<400 && !statusCodesResponseType[code]) {
